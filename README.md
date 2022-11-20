@@ -1,0 +1,8 @@
+# IBM-Project-397-1658300230
+A Novel Method for Handwritten Digit Recognition System
+Teamid:PNT2022TMID35898
+TEAM MEMBERS:
+1)PREM KUMAR K
+2)SELVAGANAPATHY C
+3)PRAVALLIKA M
+4)GOWTHAM K
