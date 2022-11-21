@@ -1,0 +1,10 @@
+1. Anaconda Navigator
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. Seaborn
+6. Tensorflow
+7. Keras
+8. OpenCV
+9. Flask
+10. Jupyter Notebook
